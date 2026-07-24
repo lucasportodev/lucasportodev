@@ -9,6 +9,5 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucas-porto-dev/">LinkedIn</a> ·
-  <a href="mailto:lucasporto.dev@icloud.com">Email</a>
+  <a href="https://hrbrintelligence.com">hrbrintelligence.com</a>
 </p>
